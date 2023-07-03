@@ -1,0 +1,15 @@
+C:\Users\MateBook D15\Desktop\git edication\lekcii\Eximples\Example 001 hello console\bin\Debug\net6.0\Example 001 hello console.exe
+C:\Users\MateBook D15\Desktop\git edication\lekcii\Eximples\Example 001 hello console\bin\Debug\net6.0\Example 001 hello console.deps.json
+C:\Users\MateBook D15\Desktop\git edication\lekcii\Eximples\Example 001 hello console\bin\Debug\net6.0\Example 001 hello console.runtimeconfig.json
+C:\Users\MateBook D15\Desktop\git edication\lekcii\Eximples\Example 001 hello console\bin\Debug\net6.0\Example 001 hello console.dll
+C:\Users\MateBook D15\Desktop\git edication\lekcii\Eximples\Example 001 hello console\bin\Debug\net6.0\Example 001 hello console.pdb
+C:\Users\MateBook D15\Desktop\git edication\lekcii\Eximples\Example 001 hello console\obj\Debug\net6.0\Example 001 hello console.csproj.AssemblyReference.cache
+C:\Users\MateBook D15\Desktop\git edication\lekcii\Eximples\Example 001 hello console\obj\Debug\net6.0\Example 001 hello console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MateBook D15\Desktop\git edication\lekcii\Eximples\Example 001 hello console\obj\Debug\net6.0\Example 001 hello console.AssemblyInfoInputs.cache
+C:\Users\MateBook D15\Desktop\git edication\lekcii\Eximples\Example 001 hello console\obj\Debug\net6.0\Example 001 hello console.AssemblyInfo.cs
+C:\Users\MateBook D15\Desktop\git edication\lekcii\Eximples\Example 001 hello console\obj\Debug\net6.0\Example 001 hello console.csproj.CoreCompileInputs.cache
+C:\Users\MateBook D15\Desktop\git edication\lekcii\Eximples\Example 001 hello console\obj\Debug\net6.0\Example 001 hello console.dll
+C:\Users\MateBook D15\Desktop\git edication\lekcii\Eximples\Example 001 hello console\obj\Debug\net6.0\refint\Example 001 hello console.dll
+C:\Users\MateBook D15\Desktop\git edication\lekcii\Eximples\Example 001 hello console\obj\Debug\net6.0\Example 001 hello console.pdb
+C:\Users\MateBook D15\Desktop\git edication\lekcii\Eximples\Example 001 hello console\obj\Debug\net6.0\Example 001 hello console.genruntimeconfig.cache
+C:\Users\MateBook D15\Desktop\git edication\lekcii\Eximples\Example 001 hello console\obj\Debug\net6.0\ref\Example 001 hello console.dll
